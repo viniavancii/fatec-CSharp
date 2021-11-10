@@ -1,0 +1,8 @@
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\bin\Debug\matematica.exe
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\bin\Debug\matematica.pdb
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\obj\Debug\matematica.Form1.resources
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\obj\Debug\matematica.Properties.Resources.resources
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\obj\Debug\matematica.csproj.GenerateResource.Cache
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\obj\Debug\matematica.exe
+C:\Documents and Settings\sql\Meus documentos\Visual Studio 2008\Projects\aula2105\matematica\obj\Debug\matematica.pdb

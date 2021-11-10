@@ -1,0 +1,12 @@
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\bin\Debug\Numero_Reynolds.exe.config
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\bin\Debug\Numero_Reynolds.exe
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\bin\Debug\Numero_Reynolds.pdb
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.csprojResolveAssemblyReference.cache
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.Form1.resources
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.Properties.Resources.resources
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.csproj.GenerateResource.Cache
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.exe
+C:\Users\Vini\Desktop\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.pdb
+E:\numero reynolds\Numero_Reynolds\Numero_Reynolds\bin\Debug\Numero_Reynolds.exe.config
+E:\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.exe
+E:\numero reynolds\Numero_Reynolds\Numero_Reynolds\obj\Debug\Numero_Reynolds.pdb
